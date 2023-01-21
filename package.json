@@ -1,0 +1,23 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odouglasoliveira/login-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odouglasoliveira/login-page/issues"
+  },
+  "homepage": "https://github.com/odouglasoliveira/login-page#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
