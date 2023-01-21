@@ -30,6 +30,7 @@ button.addEventListener('click', () => {
   try {
     verifyEmail(email);
     verifyPassword(password);
+    loginPage.innerHTML = 'Login efetuado com sucesso :)'
   } catch (error) {
     showError(error)
   }
