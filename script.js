@@ -36,4 +36,7 @@ button.addEventListener('click', () => {
   }
 })
 
-email.addEventListener('focus', () =>  errorSection.style.display = 'none')
+const cleanErrorSection = () => errorSection.style.display = 'none';
+
+email.addEventListener('focus', cleanErrorSection);
+password.addEventListener('focus', cleanErrorSection);
