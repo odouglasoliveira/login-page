@@ -1,8 +1,7 @@
 
 # Login Page
 
-Projeto feito para a prática de HTML, CSS e Javascript.
-Utilizando verificações de input usando Javascript puro.
+Formulário de login feito para a prática de HTML, CSS e Javascript. Fazendo verificações de input usando Javascript puro.
 
 
 ## Aprendizados
